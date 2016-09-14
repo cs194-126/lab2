@@ -28,7 +28,7 @@ allows for cheaper, more rapid prototyping with the caveat of being less precise
  * Large and small wrench (should come with the Othermill)
  * USB and power cables (should come with the Othermill)
  * Bracket (see below for what this is) with securing screws (x3) and allen key
- * Large and small wrench set.for changing bits
+ * Large and small wrench set for changing bits
 * 1/32" Flat End Mill and 30° Engraving Bit
 * A piece of double-sided copper-plated FR-1 PCB substrate
 * Double-sided tape
