@@ -80,10 +80,10 @@ This procedure should take about **1-2 hours** total to complete.
   Follow the on-screen instructions. When directed, follow the
   Othermachine-provided diagram to insert bit backwards.
 
-  > **Note**: the machine will move automatically to find the fixture. Don't
+  > **Note**: The machine will move automatically to find the fixture. Don't
   > disturb it while this happens.
 
-  > **Note**: watch the machine at all times while it operates.
+  > **Note**: Watch the machine at all times while it operates.
 
   <!---
   TODO: add othermachine diagram for bit change?
@@ -115,8 +115,9 @@ This procedure should take about **1-2 hours** total to complete.
 14. Tape one side of board.
   If you put too much tape, the board will be **very**
   difficult to remove when the milling is done, but if you put too little tape
-  A recommended amount is typically a few strips, or using four squares in the
-  corners will work for small boards.
+  the board may move around which may damage both your board and the tool.
+  A recommended amount is typically a few strips along the length of the board.
+  Alternatively, using four squares in the corners will work for small boards.
 
 15. Attach board to bottom left side of bracket.
 
