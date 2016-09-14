@@ -17,9 +17,9 @@ include long turnaround time and higher cost compared to desktop milling, which
 allows for cheaper, more rapid prototyping with the caveat of being less precise
 (e.g. the minimum feature sizes are larger).
 
-![Switch circuit](/images/pcb_bottom.jpg?raw=true)
+![Bottom side of the PCB](/images/pcb_bottom.jpg?raw=true)
 
-![Switch circuit](/images/pcb_top.jpg?raw=true)
+![Top side of the PCB](/images/pcb_top.jpg?raw=true)
 
 ## Prerequisites and Materials
 
@@ -68,11 +68,11 @@ This procedure should take about **1-2 hours** total to complete.
   > **Note**: The Othermill bed is not hand-movable and attempting to force it without power
   > may permanently damage the machine.
 
-6. Make sure bracket is in place.
+6. Make sure the bracket is in place. Use the given screws and allen key to
+  install the bracket onto the bed, if it is not already installed.
 
-  <!---
-  TODO: add picture of bracket.
-  -->
+  ![Bracket](/images/bracket.jpg?raw=true)
+  *The bracket and the screws and allen key required to install the bracket.*
 
 7. Set the fixturing to bracket, if it is not already, using
   **Fixturing → Locate...**.
@@ -80,14 +80,18 @@ This procedure should take about **1-2 hours** total to complete.
   Follow the on-screen instructions. When directed, follow the
   Othermachine-provided diagram to insert bit backwards.
 
-  <!---
-  TODO: add othermachine diagram for bit change?
-  -->
-
   > **Note**: the machine will move automatically to find the fixture. Don't
   > disturb it while this happens.
 
   > **Note**: watch the machine at all times while it operates.
+
+  <!---
+  TODO: add othermachine diagram for bit change?
+  -->
+  
+  ![Tool holder assembly](/images/tool_holder.jpg?raw=true)
+  
+  *The tool holder assembly (including a bit inserted backwards for fixturing.*
 
 8. Get a blank double-sided FR-1 board.
 
@@ -124,6 +128,9 @@ outline.
 18. Start milling (under **Milling Tools** section).
   Change the tooling when asked. Follow the on-screen directions of the
   Otherplan software.
+
+  ![Milling away](/images/milling.jpg?raw=true)
+  *The Othermill at work, milling your board.*
 
 19. (If necessary) Attach the window.
 
